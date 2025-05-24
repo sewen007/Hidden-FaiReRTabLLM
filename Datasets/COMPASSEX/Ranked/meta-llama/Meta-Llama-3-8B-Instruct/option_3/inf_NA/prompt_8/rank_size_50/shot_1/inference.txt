@@ -1,0 +1,530 @@
+Based on the names provided, I can infer the sexes of the runners as follows:
+
+[1] ID: 6, Leonor Ramirez, Female
+[2] ID: 44, Miriam Torres, Female
+[3] ID: 58, Ann-Marie Cassagnol, Female
+[4] ID: 75, Ivette Lopez, Female
+[5] ID: 88, Genevieve Savage, Female
+[6] ID: 156, Alexandra Donovan, Female
+[7] ID: 175, Charlene Cousino, Female
+[8] ID: 194, Shameka Wright, Female
+[9] ID: 213, Kathleen Lopez, Female
+[10] ID: 221, Yolanda Smith, Female
+[11] ID: 239, Fatima Johnson, Female
+[12] ID: 241, Thajuana Allen, Female
+[13] ID: 256, Emily Noronha, Female
+[14] ID: 319, Victor Chavez, Male
+[15] ID: 347, Doreena Nicholas, Female
+[16] ID: 350, Anthony Edie, Male
+[17] ID: 389, Joshua Simons, Male
+[18] ID: 431, Coletter Jenkins, Female
+[19] ID: 433, Christian Conboy, Male
+[20] ID: 441, Daniot Joachim, Female
+[21] ID: 445, Yoan Miranda, Male
+[22] ID: 475, April Mincey, Female
+[23] ID: 488, Kevin Sanchez, Male
+[24] ID: 500, Quentin Bullard, Male
+[25] ID: 534, Briana Adhemar, Female
+[26] ID: 553, Luis Taveras, Male
+[27] ID: 677, Lisa Flowers, Female
+[28] ID: 714, Gibrian Wilson, Male
+[29] ID: 718, Ralph Johnson, Male
+[30] ID: 740, Monica Mompremier, Female
+[31] ID: 769, Valerie Corker, Female
+[32] ID: 817, Jermaine Bowens, Male
+[33] ID: 838, Joevel Williams, Male
+[34] ID: 849, Alvaro Tinoco, Male
+[35] ID: 860, Josiah Hoffman, Male
+[36] ID: 858, Justin Bates, Male
+[37] ID: 867, Derion McCreed, Male
+[38] ID: 892, Lester Candelaria, Male
+[39] ID: 965, Janice Demps, Female
+[40] ID: 964, Lorraine Loftis, Female
+[41] ID: 1004, Marcus Albritton, Male
+[42] ID: 1011, James Wickman, Male
+[43] ID: 1038, Jacqueline Battle, Female
+[44] ID: 1036, Lenaris Pope, Male
+[45] ID: 1089, Danny Black, Male
+[46] ID: 1115, Luis Ayalaadorno, Male
+[47] ID: 1126, Robert Rose, Male
+[48] ID: 1134, Devaughn Brown, Male
+[49] ID: 1166, Jonathan Waskiw, Male
+[50] ID: 1207, Alisha Burns, Female
+Based on the names provided, I can infer the sexes of the runners as follows:
+
+1. ID: 10 (name: eileen dunn, score: 2.68) - Female
+2. ID: 17 (name: joana gomezmartinez, score: 2.57) - Female
+3. ID: 32 (name: foufoune junior, score: 2.38) - Female
+4. ID: 133 (name: noel lopez, score: 1.86) - Female
+5. ID: 156 (name: alexandra donovan, score: 1.79) - Female
+6. ID: 163 (name: yvette calderon, score: 1.76) - Female
+7. ID: 170 (name: michelle hunter, score: 1.74) - Female
+8. ID: 208 (name: madeline cuello, score: 1.6) - Female
+9. ID: 220 (name: haley belba, score: 1.58) - Female
+10. ID: 239 (name: fatima johnson, score: 1.53) - Female
+11. ID: 252 (name: shanteka arvinger, score: 1.5) - Female
+12. ID: 275 (name: alfonso hamilton, score: 1.42) - Male
+13. ID: 290 (name: brandi lopez, score: 1.39) - Female
+14. ID: 320 (name: christine king, score: 1.31) - Female
+15. ID: 343 (name: samantha lionakis, score: 1.25) - Female
+16. ID: 351 (name: joshua mason, score: 1.23) - Male
+17. ID: 368 (name: vincente delgado, score: 1.18) - Male
+18. ID: 417 (name: ricky williams, score: 1.09) - Male
+19. ID: 457 (name: tiffany harris, score: 1.0) - Female
+20. ID: 475 (name: april mincey, score: 0.96) - Female
+21. ID: 496 (name: cedric carson, score: 0.91) - Male
+22. ID: 511 (name: jameeka obriant, score: 0.88) - Female
+23. ID: 581 (name: latavyia tucker, score: 0.73) - Female
+24. ID: 584 (name: jessica garcia, score: 0.72) - Female
+25. ID: 595 (name: anisha oliphant, score: 0.7) - Female
+26. ID: 631 (name: kadeidra bankston, score: 0.64) - Female
+27. ID: 645 (name: sanjay sookhoo, score: 0.62) - Male
+28. ID: 672 (name: david pierre, score: 0.58) - Male
+29. ID: 679 (name: arrik young, score: 0.57) - Male
+30. ID: 685 (name: james stearns, score: 0.56) - Male
+31. ID: 684 (name: yolani moratz, score: 0.56) - Female
+32. ID: 718 (name: ralph johnson, score: 0.5) - Male
+33. ID: 758 (name: marshall jacobs, score: 0.42) - Male
+34. ID: 791 (name: karlijo teague, score: 0.37) - Female
+35. ID: 823 (name: dylan bishop, score: 0.3) - Male
+36. ID: 838 (name: joevel williams, score: 0.27) - Male
+37. ID: 854 (name: nicholas gory, score: 0.23) - Male
+38. ID: 888 (name: sandy francois, score: 0.17) - Female
+39. ID: 894 (name: shaun mckinley, score: 0.15) - Male
+40. ID: 933 (name: lavoris walker, score: 0.08) - Male
+41. ID: 979 (name: alonzo coleman, score: -0.01) - Male
+42. ID: 983 (name: faris roperto, score: -0.02) - Male
+43. ID: 1074 (name: sean atkinstall, score: -0.19) - Male
+44. ID: 1115 (name: luis ayalaadorno, score: -0.32) - Male
+45. ID: 1114 (name: ryan whittaker, score: -0.32) - Male
+46. ID: 1130 (name: william murrell, score: -0.37) - Male
+47. ID: 1156 (name: christopher mejia, score: -0.46) - Male
+48. ID: 1168 (name: jeremiah young, score: -0.5) - Male
+49. ID: 1182 (name: alberto rodriguez, score: -0.58) - Male
+50. ID: 1242 (name: juan prebal, score: -0.98) - Male
+
+Note that some names may not be explicitly gendered, but based on common naming conventions and cultural associations, I have made an educated guess about the sex of each runner.
+Based on the names provided, I infer the sexes as follows:
+
+1. carrie salter - Female
+2. angela waller - Female
+3. sheila trovato - Female
+4. ruth battiste - Female
+5. marta lopes - Female
+6. yvette calderon - Female
+7. naita james - Female
+8. brittany holt - Female
+9. shameka wright - Female
+10. yolanda smith - Female
+11. jarvis yates - Male
+12. lisa hitzemankhan - Female
+13. joshua mason - Male
+14. juckendra toussaint - Female
+15. john gorczyca - Male
+16. leon hatcher - Male
+17. andrew renshaw - Male
+18. tiffany harris - Female
+19. robert armstrong - Male
+20. andre ashley - Male
+21. nathalie joseph - Female
+22. karl ehlen - Male
+23. daryll orr - Male
+24. jasmine cureton - Female
+25. jared cohen - Male
+26. allen roundtree - Male
+27. derion mcreed - Male
+28. janay owens - Female
+29. emily vanhuss - Female
+30. melinda white - Female
+31. robert sandholzer - Male
+32. freddie lockhart - Male
+33. ervin jones - Male
+34. precious mccray - Female
+35. juanita sawyer - Female
+36. melissa pento - Female
+37. marcus albritton - Male
+38. john williams - Male
+39. eric lever - Male
+40. jemmal cameron - Female
+41. alysha beyerlein - Female
+42. eric lodenquai - Male
+43. steven coney - Male
+44. maxima basil - Female
+45. robert dey - Male
+46. jeremiah young - Male
+47. timothey shimko - Male
+48. michael marold - Male
+49. shakera rolle - Female
+50. kenneth branch - Male
+
+Note that some names may not be uniquely indicative of a particular sex, and some individuals may identify as non-binary or genderqueer. This inference is based solely on the provided names and may not reflect the actual gender identity of the individuals.
+Based on the given list, I can infer the sexes of the runners as follows:
+
+1. ID: 20, Name: Carrie Salter, Score: 2.49 - Female
+2. ID: 22, Name: Marie Hamilton, Score: 2.48 - Female
+3. ID: 40, Name: Carmen Manzanares, Score: 2.32 - Female
+4. ID: 53, Name: Donnalie Higgs, Score: 2.23 - Female
+5. ID: 68, Name: Anne Murray, Score: 2.12 - Female
+6. ID: 97, Name: Ruth Battiste, Score: 2.01 - Female
+7. ID: 96, Name: Thomas Zaremba, Score: 2.01 - Male
+8. ID: 123, Name: Patsy Kennedy, Score: 1.9 - Female
+9. ID: 131, Name: Bobby Cook, Score: 1.87 - Male
+10. ID: 161, Name: Danielle Sites, Score: 1.77 - Female
+11. ID: 170, Name: Michelle Hunter, Score: 1.74 - Female
+12. ID: 171, Name: Jamye Brown, Score: 1.73 - Female
+13. ID: 175, Name: Charlene Cousino, Score: 1.71 - Female
+14. ID: 237, Name: Lamar Queenbourrows, Score: 1.53 - Male
+15. ID: 252, Name: Shanteka Arvinger, Score: 1.5 - Female
+16. ID: 289, Name: Brooke Bassininsky, Score: 1.39 - Female
+17. ID: 325, Name: Kristopher Pendlebury, Score: 1.3 - Male
+18. ID: 335, Name: Mary Davis, Score: 1.28 - Female
+19. ID: 342, Name: Natalie Roldan, Score: 1.25 - Female
+20. ID: 372, Name: Calvin Feagin, Score: 1.17 - Male
+21. ID: 414, Name: Matt Munoz, Score: 1.1 - Male
+22. ID: 464, Name: Stephanie Velasquez, Score: 0.99 - Female
+23. ID: 484, Name: Cachaloni Frank, Score: 0.94 - Male
+24. ID: 548, Name: Dominique Dent, Score: 0.79 - Male
+25. ID: 577, Name: Rasheed Cunningham, Score: 0.74 - Male
+26. ID: 591, Name: Dominic Pabon, Score: 0.71 - Male
+27. ID: 654, Name: Stacy Dimitrakis, Score: 0.61 - Female
+28. ID: 687, Name: Andrew Ward, Score: 0.56 - Male
+29. ID: 693, Name: Frederick Thomas, Score: 0.55 - Male
+30. ID: 702, Name: Oscar Alayo, Score: 0.53 - Male
+31. ID: 718, Name: Ralph Johnson, Score: 0.5 - Male
+32. ID: 755, Name: Joseph Brock, Score: 0.43 - Male
+33. ID: 761, Name: Samantha Keeble, Score: 0.42 - Female
+34. ID: 828, Name: Steve Sevil, Score: 0.28 - Male
+35. ID: 831, Name: Sean Poirier, Score: 0.28 - Male
+36. ID: 830, Name: Marlon Turner, Score: 0.28 - Male
+37. ID: 888, Name: Sandy Francois, Score: 0.17 - Female
+38. ID: 929, Name: Renee Monroe, Score: 0.08 - Female
+39. ID: 972, Name: Sandy Shaw, Score: 0.01 - Female
+40. ID: 986, Name: Tony Woodberry, Score: -0.03 - Male
+41. ID: 1022, Name: Dalton Lewis, Score: -0.11 - Male
+42. ID: 1024, Name: Kalil Edwards, Score: -0.11 - Male
+43. ID: 1047, Name: Milot Bastian, Score: -0.14 - Male
+44. ID: 1082, Name: Michael Carrier, Score: -0.22 - Male
+45. ID: 1088, Name: Daniel Swakcerd, Score: -0.24 - Male
+46. ID: 1181, Name: Karen Darnell, Score: -0.57 - Female
+47. ID: 1218, Name: Murvin Thomas, Score: -0.78 - Male
+48. ID: 1231, Name: Tacaris Mitchell, Score: -0.88 - Male
+49. ID: 1235, Name: Rasheem Chamberlain, Score: -0.91 - Male
+50. ID: 1256, Name: Edward Harding, Score: -1.55 - Male
+
+Note: The sexes are inferred based on the given names and are not guaranteed to be accurate.
+Based on the names provided, I infer the following sexes:
+
+[1] ID: 44 (name: miriam torres) - Female
+[2] ID: 53 (name: donnalie higgs) - Female
+[3] ID: 55 (name: julietta gustave) - Female
+[4] ID: 66 (name: tony gotiear) - Male
+[5] ID: 117 (name: roger goindoo) - Male
+[6] ID: 132 (name: alison coutain) - Female
+[7] ID: 160 (name: maggi allaire) - Female
+[8] ID: 163 (name: yvette calderon) - Female
+[9] ID: 219 (name: magalys aulet) - Female
+[10] ID: 237 (name: lamar queenbourrows) - Male
+[11] ID: 253 (name: yanielys garcia-fernandez) - Female
+[12] ID: 308 (name: latonya griffin) - Female
+[13] ID: 313 (name: kimberly howard) - Female
+[14] ID: 318 (name: angelika hawkins) - Female
+[15] ID: 332 (name: lisa hitzemankhan) - Female
+[16] ID: 342 (name: natalie roldan) - Female
+[17] ID: 347 (name: doreena nicholas) - Female
+[18] ID: 417 (name: ricky williams) - Male
+[19] ID: 430 (name: eriane early) - Female
+[20] ID: 439 (name: charles frye) - Male
+[21] ID: 562 (name: allyson glass) - Female
+[22] ID: 578 (name: tiara higgs) - Female
+[23] ID: 595 (name: anisha oliphant) - Female
+[24] ID: 599 (name: terri-ann gray) - Female
+[25] ID: 638 (name: jared cohen) - Male
+[26] ID: 654 (name: stacy dimitrakis) - Female
+[27] ID: 670 (name: kenson jeanpierre) - Male
+[28] ID: 741 (name: johan wyngaarde) - Male
+[29] ID: 751 (name: mackenson nelson) - Male
+[30] ID: 784 (name: ken delva) - Male
+[31] ID: 817 (name: jermaine bowens) - Male
+[32] ID: 849 (name: alvaro tinoco) - Male
+[33] ID: 859 (name: dennis williams) - Male
+[34] ID: 862 (name: andy plancher) - Male
+[35] ID: 863 (name: janay owens) - Female
+[36] ID: 883 (name: emily vanhuss) - Female
+[37] ID: 948 (name: roderick griffin) - Male
+[38] ID: 954 (name: nathan mosley) - Male
+[39] ID: 979 (name: alonzo coleman) - Male
+[40] ID: 996 (name: james jenkins) - Male
+[41] ID: 1001 (name: michael west) - Male
+[42] ID: 1033 (name: antwan davis) - Male
+[43] ID: 1034 (name: gregory manze) - Male
+[44] ID: 1038 (name: jacqueline battle) - Female
+[45] ID: 1182 (name: alberto rodriguez) - Male
+[46] ID: 1190 (name: nicholas graham) - Male
+[47] ID: 1212 (name: shakera rolle) - Female
+[48] ID: 1226 (name: christopher jenkins) - Male
+[49] ID: 1244 (name: timothy law) - Male
+[50] ID: 1249 (name: hakeem fulton) - Male
+Based on the given names, I infer the sexes of the runners as follows:
+
+[1] ID: 51 (name: monica churchill, score: 2.23) - Female
+[2] ID: 60 (name: angela waller, score: 2.16) - Female
+[3] ID: 92 (name: louisette jean, score: 2.03) - Female
+[4] ID: 168 (name: albalidia torres, score: 1.75) - Female
+[5] ID: 219 (name: magalys aulet, score: 1.58) - Female
+[6] ID: 239 (name: fatima johnson, score: 1.53) - Female
+[7] ID: 252 (name: shanteka arvinger, score: 1.5) - Female
+[8] ID: 271 (name: luis mora, score: 1.43) - Male
+[9] ID: 280 (name: claire aspelly, score: 1.41) - Female
+[10] ID: 332 (name: lisa hitzemankhan, score: 1.29) - Female
+[11] ID: 367 (name: adriana cardona, score: 1.19) - Female
+[12] ID: 373 (name: jessica scirghio, score: 1.17) - Female
+[13] ID: 394 (name: caitlin wallace, score: 1.13) - Female
+[14] ID: 426 (name: marianne mackiewicz, score: 1.07) - Female
+[15] ID: 445 (name: yoan miranda, score: 1.02) - Male
+[16] ID: 460 (name: britney vincent, score: 0.99) - Female
+[17] ID: 511 (name: jameeka obriant, score: 0.88) - Female
+[18] ID: 527 (name: nathalie joseph, score: 0.83) - Female
+[19] ID: 530 (name: iyana llanos, score: 0.82) - Female
+[20] ID: 590 (name: portia cooper, score: 0.71) - Female
+[21] ID: 609 (name: alejandro cabrera, score: 0.67) - Male
+[22] ID: 658 (name: gian morales, score: 0.6) - Male
+[23] ID: 702 (name: oscar alayo, score: 0.53) - Male
+[24] ID: 709 (name: john pitre, score: 0.51) - Male
+[25] ID: 736 (name: kendall glasgow, score: 0.46) - Female
+[26] ID: 751 (name: mackenson nelson, score: 0.43) - Male
+[27] ID: 759 (name: gerald dessalines, score: 0.42) - Male
+[28] ID: 814 (name: brandon altenried, score: 0.32) - Male
+[29] ID: 821 (name: charles cocuzza, score: 0.31) - Male
+[30] ID: 826 (name: raquel stewart, score: 0.29) - Female
+[31] ID: 840 (name: michael russo, score: 0.27) - Male
+[32] ID: 895 (name: christopher dunn, score: 0.15) - Male
+[33] ID: 942 (name: kristina hughes, score: 0.06) - Female
+[34] ID: 966 (name: gerald rice, score: 0.02) - Male
+[35] ID: 968 (name: precious mccray, score: 0.01) - Female
+[36] ID: 1050 (name: briteny williams, score: -0.14) - Female
+[37] ID: 1096 (name: markiesha gill, score: -0.26) - Female
+[38] ID: 1098 (name: keonah dailey, score: -0.27) - Female
+[39] ID: 1116 (name: antwoin graham, score: -0.32) - Male
+[40] ID: 1121 (name: joseph mims, score: -0.34) - Male
+[41] ID: 1143 (name: manuel baker, score: -0.4) - Male
+[42] ID: 1158 (name: robert jones, score: -0.46) - Male
+[43] ID: 1174 (name: chandler tarquino, score: -0.53) - Male
+[44] ID: 1180 (name: anthony myers, score: -0.57) - Male
+[45] ID: 1197 (name: james lapaix, score: -0.65) - Male
+[46] ID: 1201 (name: jameel brinson, score: -0.66) - Male
+[47] ID: 1207 (name: alisha burns, score: -0.71) - Female
+[48] ID: 1240 (name: jerome shaw, score: -0.95) - Male
+[49] ID: 1239 (name: jamal murray, score: -0.95) - Male
+[50] ID: 1246 (name: bryan taylor, score: -1.06) - Male
+Based on the names provided, I can infer the sexes of the runners as follows:
+
+1. ID: 40, name: Carmen Manzanares, score: 2.32 - Female
+2. ID: 56, name: Yolanda Hoff, score: 2.2 - Female
+3. ID: 68, name: Anne Murray, score: 2.12 - Female
+4. ID: 116, name: Mark Ribeiro, score: 1.92 - Male
+5. ID: 145, name: Thaffi Wilson, score: 1.82 - Female
+6. ID: 149, name: Francesca Larosa, score: 1.81 - Female
+7. ID: 161, name: Danielle Sites, score: 1.77 - Female
+8. ID: 175, name: Charlene Cousino, score: 1.71 - Female
+9. ID: 181, name: Joyce Jacques, score: 1.69 - Female
+10. ID: 197, name: Iliana Fernandez, score: 1.63 - Female
+11. ID: 219, name: Magalys Aulet, score: 1.58 - Female
+12. ID: 244, name: Carolyn Weaver, score: 1.52 - Female
+13. ID: 247, name: Farrah Jean, score: 1.5 - Female
+14. ID: 255, name: Larry Hampton, score: 1.49 - Male
+15. ID: 308, name: Latonya Griffin, score: 1.34 - Female
+16. ID: 318, name: Angelika Hawkins, score: 1.31 - Female
+17. ID: 322, name: Owen Parchment, score: 1.31 - Male
+18. ID: 327, name: Judge Lucas, score: 1.3 - Male
+19. ID: 366, name: Juckendra Toussaint, score: 1.19 - Female
+20. ID: 379, name: Jean Beldunord, score: 1.16 - Female
+21. ID: 393, name: Albeiro Munoz, score: 1.13 - Male
+22. ID: 391, name: Todd Livingston, score: 1.13 - Male
+23. ID: 400, name: Stephanie Harvey, score: 1.12 - Female
+24. ID: 397, name: Solomon McCarter, score: 1.12 - Male
+25. ID: 566, name: Dominique Akins, score: 0.76 - Female
+26. ID: 568, name: Lorraine Rivera, score: 0.76 - Female
+27. ID: 571, name: Daniel Asdot, score: 0.75 - Male
+28. ID: 575, name: Brian Mayors, score: 0.74 - Male
+29. ID: 600, name: James Nelson, score: 0.69 - Male
+30. ID: 610, name: Philip Milton, score: 0.67 - Male
+31. ID: 612, name: Nakiea Maywa, score: 0.67 - Female
+32. ID: 686, name: Kelcie Jumper, score: 0.56 - Female
+33. ID: 711, name: Walter Olson, score: 0.51 - Male
+34. ID: 755, name: Joseph Brock, score: 0.43 - Male
+35. ID: 761, name: Samantha Keeble, score: 0.42 - Female
+36. ID: 820, name: Arthur Andreu, score: 0.31 - Male
+37. ID: 818, name: Jayson Norman, score: 0.31 - Male
+38. ID: 884, name: Lisa Scott, score: 0.17 - Female
+39. ID: 891, name: Brian Scott, score: 0.16 - Male
+40. ID: 889, name: Damion Clark, score: 0.16 - Male
+41. ID: 927, name: John Hora, score: 0.09 - Male
+42. ID: 983, name: Faris Roperto, score: -0.02 - Male
+43. ID: 1017, name: Julius Grant, score: -0.1 - Male
+44. ID: 1096, name: Markiesha Gill, score: -0.26 - Female
+45. ID: 1152, name: Neville Henry, score: -0.43 - Male
+46. ID: 1178, name: April Hollis, score: -0.56 - Female
+47. ID: 1181, name: Karen Darnell, score: -0.57 - Female
+48. ID: 1195, name: Earl Brewer, score: -0.64 - Male
+49. ID: 1217, name: Joshua Ross, score: -0.77 - Male
+50. ID: 1229, name: Kelvin Oliphant, score: -0.88 - Male
+Based on the given list, I infer the sexes of the runners as follows:
+
+1. Female
+2. Female
+3. Female
+4. Female
+5. Male
+6. Female
+7. Female
+8. Female
+9. Female
+10. Female
+11. Female
+12. Female
+13. Male
+14. Female
+15. Female
+16. Male
+17. Female
+18. Male
+19. Male
+20. Female
+21. Male
+22. Female
+23. Male
+24. Male
+25. Female
+26. Male
+27. Male
+28. Female
+29. Male
+30. Female
+31. Female
+32. Female
+33. Female
+34. Male
+35. Male
+36. Male
+37. Male
+38. Male
+39. Male
+40. Male
+41. Male
+42. Male
+43. Female
+44. Male
+45. Male
+46. Male
+47. Male
+48. Female
+49. Male
+50. Male
+
+Note that I'm making an educated guess based on the names provided, but it's not 100% accurate. If you provide more information or context, I can refine my inference.
+Based on the names provided, I can infer the sexes of the runners as follows:
+
+1. clara igelesias - Female
+2. miriam torres - Female
+3. monica churchill - Female
+4. ann-marie cassagnol - Female
+5. mary ledbetter - Female
+6. eva downs - Female
+7. raul castro - Male
+8. angie luti - Female
+9. syreta moye - Female
+10. carlos calle - Male
+11. christine king - Female
+12. samantha lionakis - Female
+13. melissa mccaffery - Female
+14. tammy green - Female
+15. christopher harris - Male
+16. eriane early - Female
+17. charles frye - Male
+18. elijah severns - Male
+19. anthony ali - Male
+20. luis fernandez - Male
+21. shannon morsillo - Female
+22. dyontae ferguson - Male
+23. danise joseph - Female
+24. stephen peters - Male
+25. kadijah julien - Female
+26. marlon miller - Male
+27. christal pinkney - Female
+28. claudio tamarez - Male
+29. kassandra cruz - Female
+30. brian marcantel - Male
+31. valerie corker - Female
+32. harold dor - Male
+33. tammie linn - Female
+34. emily vanhuss - Female
+35. rebecca lowery - Female
+36. torrey thomas - Male
+37. janice demps - Female
+38. juanita sawyer - Female
+39. nicola dixon - Female
+40. tyler gay - Male
+41. stacey forbes - Female
+42. angel delgado - Male
+43. tyrel fairclough - Male
+44. javaris mims - Male
+45. vincent gordon - Male
+46. steven ferguson - Male
+47. austin bennett - Male
+48. eclaire salomon - Female
+49. timothey shimko - Male
+50. kenneth branch - Male
+
+Please note that this is an inference based on the names provided and may not be 100% accurate.
+Based on the given names, I infer the following sexes:
+
+1. Female
+2. Female
+3. Female
+4. Female
+5. Female
+6. Female
+7. Male
+8. Female
+9. Female
+10. Male
+11. Male
+12. Female
+13. Male
+14. Female
+15. Male
+16. Female
+17. Male
+18. Female
+19. Female
+20. Female
+21. Male
+22. Male
+23. Female
+24. Male
+25. Male
+26. Male
+27. Male
+28. Female
+29. Male
+30. Male
+31. Male
+32. Female
+33. Female
+34. Male
+35. Male
+36. Male
+37. Male
+38. Male
+39. Male
+40. Male
+41. Female
+42. Female
+43. Female
+44. Male
+45. Male
+46. Female
+47. Male
+48. Male
+49. Male
+50. Male

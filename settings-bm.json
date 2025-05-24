@@ -1,0 +1,22 @@
+{
+  "GENERAL_SETTINGS": {
+    "rank_sizes": [
+      50
+    ],
+    "shots": [0,1,2,3,4]
+  },
+  "READ_FILE_SETTINGS": {
+    "PATH": "./Hidden-FaiReR-TabLLM/BostonMarathon.csv",
+    "ITEM": "runner",
+    "GENDER_EXPERIMENT": "True",
+    "RACE_EXPERIMENT": "False",
+    "PROTECTED_FEATURE": "Gender",
+    "DADV_GROUP": "female",
+    "ADV_GROUP": "male",
+    "SCORE_COL": "score",
+    "ADDITIONAL_COLUMNS": [
+
+    ],
+    "INF": "GAPI"
+  }
+}

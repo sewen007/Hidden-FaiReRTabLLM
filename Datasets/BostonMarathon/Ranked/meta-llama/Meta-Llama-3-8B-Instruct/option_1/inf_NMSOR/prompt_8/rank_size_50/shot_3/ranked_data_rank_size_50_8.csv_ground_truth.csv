@@ -1,0 +1,51 @@
+doc_id,Name,Gender,score,BTN,NMSOR,GAPI
+1,Eric Loeffler,male,0.953,male,female,male
+2,Wouter Hoogkamer,male,0.90983,male,male,male
+3,Mike C Macinnes,male,0.8582,male,female,male
+4,Kristine Burciaga,female,0.83674,female,female,female
+5,Michael F. Brink,male,0.8354,male,female,male
+6,Jamie L Panzer,female,0.81799,female,female,male
+7,Patrik Vankrunkelsven,male,0.81565,male,male,male
+8,Andrew J Zapor,male,0.81092,male,female,male
+9,Sara Plumstead,female,0.80858,female,female,female
+10,Drew Marlar,male,0.78998,male,female,male
+11,Ernst Ter Haar,male,0.7885,male,female,male
+12,Michael Perrotti,male,0.76407,male,female,male
+13,Daewoo Han,male,0.75771,female,female,male
+14,Robert Jr. Quinn,male,0.75092,male,female,male
+15,Tara Eckenrode,female,0.75016,female,female,female
+16,Rafael Guzman,male,0.74929,male,female,male
+17,Stacey Buckelew,female,0.74222,female,female,female
+18,Jade S Hiramoto,female,0.7349,female,female,female
+19,Taylor Koenig,female,0.73299,female,female,female
+20,Eda F Herzog-Vitto,female,0.73017,female,female,female
+21,Pedro Castro,male,0.72879,male,male,male
+22,Christa C Tatyosian,female,0.71707,female,female,female
+23,Darcy R. Schultz,female,0.71468,female,female,female
+24,Steven Neugebauer,male,0.71052,male,male,male
+25,Kurt A Berna,male,0.70861,male,female,male
+26,Claudie Simard,female,0.70708,female,female,female
+27,Emily E. Benson,female,0.70311,female,female,female
+28,Ainslie M Chandler,female,0.70235,female,female,female
+29,Amy M. Cifelli,female,0.70192,female,female,female
+30,Anna Clark,female,0.69881,female,female,female
+31,Andrea Poehling,female,0.69336,male,female,female
+32,Anne E Klein,female,0.69078,female,female,female
+33,Rami Haddad,male,0.6859,female,female,male
+34,Michelle Hoffert,female,0.67352,female,female,female
+35,Nancy Hatfield,female,0.67266,female,female,female
+36,Vincent Lavoie,male,0.66673,male,female,male
+37,Gregory L Crafton,male,0.66238,male,female,male
+38,Jorge Welch,male,0.65703,male,male,male
+39,Emily A Meister,female,0.63145,female,female,female
+40,Myungsil A Francis,female,0.62442,female,female,female
+41,Xinyu Kang,male,0.59464,female,female,male
+42,Andres E Mendizabal,male,0.59086,male,male,male
+43,Ying Jie Chang,female,0.55998,female,female,female
+44,Lanny Hardy,male,0.5485,male,female,female
+45,Jj Salisbury,female,0.52747,female,female,male
+46,Jennifer A. Pimental,female,0.52393,female,female,female
+47,Bruce Rosendahl,male,0.5137,male,female,male
+48,Francesca Bardi,female,0.4492,female,female,female
+49,James A. Isenberg,male,0.44576,male,male,male
+50,Scott R. Weisberg,male,0.26122,male,female,male

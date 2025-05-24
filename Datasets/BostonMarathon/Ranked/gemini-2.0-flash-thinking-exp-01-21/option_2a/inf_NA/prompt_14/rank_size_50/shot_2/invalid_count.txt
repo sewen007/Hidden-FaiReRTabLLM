@@ -1,0 +1,12 @@
+Valid output format, number of value numbers: 50
+Valid output format, number of value numbers: 50
+Valid output format, number of value numbers: 50
+Valid output format, number of value numbers: 50
+Invalid output format for gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 2, number of value numbers: 48
+Valid output format, number of value numbers: 50
+Valid output format, number of value numbers: 50
+Valid output format, number of value numbers: 50
+Valid output format, number of value numbers: 50
+Invalid output format for gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 2, number of value numbers: 51
+Valid output format, number of value numbers: 50
+Valid output format, number of value numbers: 50

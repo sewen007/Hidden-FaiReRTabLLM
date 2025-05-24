@@ -1,0 +1,51 @@
+doc_id,Name,Gender,score,BTN,NMSOR,GAPI,https://api.deepseek.com
+1,Rachid Kisri,male,0.97442,male,male,male,male
+2,Reynaldo Lazo,male,0.90166,male,male,male,male
+3,Julianne Quinn,female,0.89019,female,female,female,female
+4,Christopher G Valicka,male,0.88832,male,female,male,male
+5,Bradley T Rininger,male,0.88177,male,female,male,male
+6,Ryohei Kawata,male,0.87297,female,female,male,male
+7,Michael J. Glenboski,male,0.86528,male,female,male,male
+8,Jonathan Kenney,male,0.85462,male,male,male,male
+9,John P Kohler,male,0.84601,male,male,male,male
+10,Marek Sernicki,male,0.83817,male,male,male,male
+11,Matt Celone,male,0.83406,male,female,male,male
+12,Christopher N Parker,male,0.82899,male,female,male,male
+13,Anna Carlman,female,0.82827,female,female,female,female
+14,Eduardo Z Verdejo,male,0.82397,male,male,male,male
+15,Joseph M D'Amico,male,0.82115,male,female,male,male
+16,Kurt Rakouskas,male,0.80987,male,female,male,male
+17,Kevin Bedell,male,0.80552,male,female,male,male
+18,Yi Sun,male,0.80356,female,female,male,male
+19,Carlos Sr. Resendiz,male,0.7852,male,male,male,male
+20,Chelsie C Kane,female,0.77095,female,female,female,female
+21,Katherine S. Cole,female,0.76694,female,female,female,female
+22,Janeth H. Calderon Rodriguez,female,0.76378,female,female,female,female
+23,Alanna McMaster,female,0.75651,female,female,female,female
+24,Jennifer Sample,female,0.75082,female,female,female,female
+25,Robert N Kilmer,male,0.75082,male,female,male,male
+26,Megan A Doty,female,0.74188,female,female,female,female
+27,Antonia Mcbride,female,0.73811,female,female,female,female
+28,Tina M Steele,female,0.72879,female,female,female,female
+29,John L. Thompson,male,0.72553,male,male,male,male
+30,Elizabeth A Beckett,female,0.72549,female,female,female,female
+31,Javaid Iqbal,male,0.72367,male,male,male,male
+32,Dennis W Ryan,male,0.72185,male,male,male,male
+33,Erica L. Rubenstein,female,0.70794,female,female,female,female
+34,Emily E. Benson,female,0.70311,female,female,female,female
+35,Sari E Waldman,female,0.70149,female,female,female,female
+36,John Giffen,male,0.67859,male,male,male,male
+37,Jacqueline R. Cameron,female,0.67208,female,female,female,female
+38,Edward R Sauter,male,0.67199,male,male,male,male
+39,James E Forbes,male,0.66836,male,male,male,male
+40,Pat Brengman,male,0.663,female,female,male,female
+41,Katie S. Ciciarelli,female,0.65358,female,female,female,female
+42,Leslie A. Smith,female,0.63116,female,female,female,female
+43,Danielle K. Rosenberg,female,0.6085,female,female,female,female
+44,Trisha Franckowiak,female,0.57097,female,female,female,female
+45,Lindsy Connolly,female,0.48018,female,female,female,female
+46,Lindsey Hadlock,female,0.47669,female,female,female,female
+47,Leesa Price,female,0.47416,female,female,female,female
+48,Zoe Augustyns,female,0.46422,female,female,female,female
+49,Melissa G. McWeeny,female,0.46292,female,female,female,female
+50,Susie Eisenberg-Argo,female,0.41416,female,female,female,female

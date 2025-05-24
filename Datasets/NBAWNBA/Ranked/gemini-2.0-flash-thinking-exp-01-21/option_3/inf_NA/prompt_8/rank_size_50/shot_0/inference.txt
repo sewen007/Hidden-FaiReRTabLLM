@@ -1,0 +1,502 @@
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Female
+Female
+Male
+Female
+Male
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Male
+Male
+Female
+Female
+Female
+Male
+Female
+Male
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Female
+Male
+Male
+Male
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Female
+Female
+Male
+Female
+Male
+Female
+Female
+Here are the inferred sexes for each player in the order provided:
+
+1.  Male
+2.  Male
+3.  Male
+4.  Male
+5.  Male
+6.  Male
+7.  Female
+8.  Male
+9.  Male
+10. Male
+11. Male
+12. Male
+13. Male
+14. Male
+15. Male
+16. Male
+17. Female
+18. Female
+19. Female
+20. Female
+21. Male
+22. Male
+23. Female
+24. Female
+25. Female
+26. Female
+27. Female
+28. Female
+29. Female
+30. Male
+31. Female
+32. Female
+33. Female
+34. Female
+35. Female
+36. Female
+37. Female
+38. Female
+39. Female
+40. Male
+41. Male
+42. Male
+43. Male
+44. Female
+45. Male
+46. Male
+47. Female
+48. Female
+49. Male
+50. Female
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Male
+Female
+Female
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Male
+Male
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Male
+Male
+Male
+Female
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Male
+Male
+Male
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Male
+Female
+Male
+Male
+Male
+Female
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Female
+Female
+Male
+Male
+Female
+Female
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Female
+Male
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Male
+Male
+Male
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Female
+Male

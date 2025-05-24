@@ -1,0 +1,51 @@
+doc_id,Name,Gender,score,BTN,NMSOR,GAPI,https://api.deepseek.com
+1,Eric Loeffler,male,0.953,male,female,male,unknown
+2,Wouter Hoogkamer,male,0.90983,male,male,male,unknown
+3,Mike C Macinnes,male,0.8582,male,female,male,unknown
+4,Kristine Burciaga,female,0.83674,female,female,female,unknown
+5,Michael F. Brink,male,0.8354,male,female,male,unknown
+6,Jamie L Panzer,female,0.81799,female,female,male,unknown
+7,Patrik Vankrunkelsven,male,0.81565,male,male,male,unknown
+8,Andrew J Zapor,male,0.81092,male,female,male,unknown
+9,Sara Plumstead,female,0.80858,female,female,female,unknown
+10,Drew Marlar,male,0.78998,male,female,male,unknown
+11,Ernst Ter Haar,male,0.7885,male,female,male,unknown
+12,Michael Perrotti,male,0.76407,male,female,male,unknown
+13,Daewoo Han,male,0.75771,female,female,male,unknown
+14,Robert Jr. Quinn,male,0.75092,male,female,male,unknown
+15,Tara Eckenrode,female,0.75016,female,female,female,unknown
+16,Rafael Guzman,male,0.74929,male,female,male,unknown
+17,Stacey Buckelew,female,0.74222,female,female,female,unknown
+18,Jade S Hiramoto,female,0.7349,female,female,female,unknown
+19,Taylor Koenig,female,0.73299,female,female,female,unknown
+20,Eda F Herzog-Vitto,female,0.73017,female,female,female,unknown
+21,Pedro Castro,male,0.72879,male,male,male,unknown
+22,Christa C Tatyosian,female,0.71707,female,female,female,unknown
+23,Darcy R. Schultz,female,0.71468,female,female,female,unknown
+24,Steven Neugebauer,male,0.71052,male,male,male,unknown
+25,Kurt A Berna,male,0.70861,male,female,male,unknown
+26,Claudie Simard,female,0.70708,female,female,female,unknown
+27,Emily E. Benson,female,0.70311,female,female,female,unknown
+28,Ainslie M Chandler,female,0.70235,female,female,female,unknown
+29,Amy M. Cifelli,female,0.70192,female,female,female,unknown
+30,Anna Clark,female,0.69881,female,female,female,unknown
+31,Andrea Poehling,female,0.69336,male,female,female,unknown
+32,Anne E Klein,female,0.69078,female,female,female,unknown
+33,Rami Haddad,male,0.6859,female,female,male,unknown
+34,Michelle Hoffert,female,0.67352,female,female,female,unknown
+35,Nancy Hatfield,female,0.67266,female,female,female,unknown
+36,Vincent Lavoie,male,0.66673,male,female,male,unknown
+37,Gregory L Crafton,male,0.66238,male,female,male,unknown
+38,Jorge Welch,male,0.65703,male,male,male,unknown
+39,Emily A Meister,female,0.63145,female,female,female,unknown
+40,Myungsil A Francis,female,0.62442,female,female,female,unknown
+41,Xinyu Kang,male,0.59464,female,female,male,unknown
+42,Andres E Mendizabal,male,0.59086,male,male,male,unknown
+43,Ying Jie Chang,female,0.55998,female,female,female,unknown
+44,Lanny Hardy,male,0.5485,male,female,female,unknown
+45,Jj Salisbury,female,0.52747,female,female,male,unknown
+46,Jennifer A. Pimental,female,0.52393,female,female,female,unknown
+47,Bruce Rosendahl,male,0.5137,male,female,male,unknown
+48,Francesca Bardi,female,0.4492,female,female,female,unknown
+49,James A. Isenberg,male,0.44576,male,male,male,unknown
+50,Scott R. Weisberg,male,0.26122,male,female,male,unknown

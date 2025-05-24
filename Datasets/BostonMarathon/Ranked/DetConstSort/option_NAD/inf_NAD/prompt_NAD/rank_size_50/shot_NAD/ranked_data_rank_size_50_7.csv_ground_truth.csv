@@ -1,0 +1,51 @@
+doc_id,Name,Gender,predictions,GT_score,Gender.1
+1,Eric Loeffler,male,0.953,0.953,male
+2,Douglas Baasch,male,0.88603,0.88603,male
+3,Michael Citro,male,0.85404,0.85404,male
+4,Ian Blanchet,male,0.84931,0.84931,male
+5,Jean Kleitz,female,0.81809,0.81809,female
+6,Wayne G Shuttleworth,male,0.81618,0.81618,male
+7,Lei Li,male,0.80222,0.80222,male
+8,Jason Funaro,male,0.79968,0.79968,male
+9,Andrew Cortez,male,0.79964,0.79964,male
+10,Ariana Bailey,female,0.79486,0.79486,female
+11,Kevin Hill,male,0.79012,0.79012,male
+12,Cheng He Guan,male,0.78582,0.78582,male
+13,Joao E. Sr. Dami,male,0.77846,0.77846,male
+14,Traci Howard,female,0.77836,0.77836,female
+15,Hui-Ling Lin,female,0.76048,0.76048,female
+16,Amy K. Larsen,female,0.75532,0.75532,female
+17,Adele E Doperalski,female,0.73084,0.73084,female
+18,Mindy Yard,female,0.71994,0.71994,female
+19,Ligong Sun,male,0.71951,0.71951,male
+20,Tessa P Crofton,female,0.70517,0.70517,female
+21,Scott Thornton,male,0.69886,0.69886,male
+22,Mark Kerr,male,0.69809,0.69809,male
+23,Mayumi Ellis,female,0.69073,0.69073,female
+24,Shae Janner,female,0.68915,0.68915,female
+25,Ashley K Woods,female,0.68423,0.68423,female
+26,Scott Gilbert,male,0.6838,0.6838,male
+27,Loren R Rose,male,0.67648,0.67648,male
+28,David E Tanay,male,0.67581,0.67581,male
+29,Susan Riggio,female,0.67323,0.67323,female
+30,Toru Takahashi,male,0.65736,0.65736,male
+31,Louise Carter,female,0.65507,0.65507,female
+32,Susan L Loper,female,0.65234,0.65234,female
+33,Jeanne M Mccarty,female,0.65201,0.65201,female
+34,Linda J. Nichols,female,0.6324,0.6324,female
+35,Monica Reisz,female,0.62868,0.62868,female
+36,Gregory D. Earley,male,0.60037,0.60037,male
+37,Alastair Norcross,male,0.58995,0.58995,male
+38,Nancy Eaton,female,0.53669,0.53669,female
+39,John P. Bosse,male,0.52842,0.52842,male
+40,Kristen L. Parks,female,0.50127,0.50127,female
+41,Irene Cortens,female,0.49821,0.49821,female
+42,Stephen Gulish,male,0.4941,0.4941,male
+43,Mary Karachyna,female,0.45704,0.45704,female
+44,Jennifer A. Connolly,female,0.44944,0.44944,female
+45,Bo Eriksson,male,0.4242,0.4242,male
+46,Johanna E. Fawcett,female,0.42305,0.42305,female
+47,Jim Evans,male,0.41803,0.41803,male
+48,Jennifer Ormsby,female,0.41062,0.41062,female
+49,Natasha Barrientos,female,0.38165,0.38165,female
+50,Dong Ryul Lee,male,0.34799,0.34799,male

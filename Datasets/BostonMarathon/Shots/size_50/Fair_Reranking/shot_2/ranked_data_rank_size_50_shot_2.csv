@@ -1,0 +1,51 @@
+doc_id,Name,Gender,predictions,GT_score,Gender
+357,Raul E Ochoa,male,0.89143,0.89143,male
+449,Hanspeter Hoedl,male,0.88493,0.88493,male
+4169,Eleanor F Williamson,female,0.78988,0.78988,female
+4223,Christina Rehbein,female,0.78955,0.78955,female
+469,Ryan A Metivier,male,0.88387,0.88387,male
+4371,Ailin Li,female,0.78635,0.78635,female
+5592,Jillian L Cordes,female,0.76937,0.76937,female
+565,Daniel Puth,male,0.87775,0.87775,male
+7686,Nicolle Zeman,female,0.74222,0.74222,female
+7938,Cassandra S Hubick,female,0.73878,0.73878,female
+8425,Melanie Bearden,female,0.73175,0.73175,female
+720,Blazej Szymoniak,male,0.86948,0.86948,male
+10873,Megan C Campbell,female,0.70283,0.70283,female
+11164,Mary Catalogna,female,0.69929,0.69929,female
+858,Michael G. Brown,male,0.86351,0.86351,male
+12015,Tara A Pirtz,female,0.68858,0.68858,female
+12141,Jennifer L Sanchez,female,0.68781,0.68781,female
+1801,Chris M Krajewski,male,0.83674,0.83674,male
+12935,Courtney J Kagarise,female,0.67491,0.67491,female
+13253,Carolyn F Thomas,female,0.66946,0.66946,female
+14066,Holly N Haemmerle,female,0.65516,0.65516,female
+1951,Henry E Janssen,male,0.83282,0.83282,male
+14697,Marylou K Clayton,female,0.64268,0.64268,female
+15313,Stacey Mason,female,0.63188,0.63188,female
+2069,Junior Azevedo,male,0.82961,0.82961,male
+16949,Lin Tong,female,0.59354,0.59354,female
+18744,Yumiko Akatsuka,female,0.5277,0.5277,female
+2554,Dustin G Pitcel,male,0.82043,0.82043,male
+19053,Ashley G. Rice,female,0.51389,0.51389,female
+19361,Peri Schaut,female,0.494,0.494,female
+19405,Terry L. Joschko,female,0.49347,0.49347,female
+2750,Michael Conrad,male,0.81589,0.81589,male
+19569,Paige Legassie,female,0.48167,0.48167,female
+20490,Sasha Griffith,female,0.40761,0.40761,female
+2826,Matthew Weber,male,0.81489,0.81489,male
+20734,Courtney Dennis,female,0.37333,0.37333,female
+20977,Meghan P. Conway,female,0.33389,0.33389,female
+2854,Samuel Amoroso,male,0.81412,0.81412,male
+3411,James 'Jay' G III Harrison,male,0.80332,0.80332,male
+4628,Zaijun Li,male,0.78233,0.78233,male
+10151,John C Stark,male,0.71263,0.71263,male
+13081,Richard N Repasky,male,0.67328,0.67328,male
+14891,Bill Kinsaul,male,0.63981,0.63981,male
+16044,David C. Jr. Harrington,male,0.61505,0.61505,male
+16213,Rick Connell,male,0.61232,0.61232,male
+18405,Donald S Taylor,male,0.54186,0.54186,male
+18657,Dokyung Kim,male,0.52995,0.52995,male
+19206,Pat Birdsong,male,0.5061,0.5061,male
+19522,Vivek M. Shah,male,0.48554,0.48554,male
+20137,William J. Matera,male,0.44065,0.44065,male

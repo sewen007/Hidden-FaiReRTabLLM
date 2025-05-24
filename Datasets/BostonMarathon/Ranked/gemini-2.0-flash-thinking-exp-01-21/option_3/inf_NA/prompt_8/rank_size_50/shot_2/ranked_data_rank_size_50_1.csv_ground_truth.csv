@@ -1,0 +1,51 @@
+doc_id,Name,Gender,score,BTN,NMSOR,GAPI,gemini-2.0-flash-thinking-exp-01-21
+1,Scott Mindel,male,0.96295,male,female,male,male
+2,Nicholas Wendel,male,0.86948,male,male,male,male
+3,Connor M Branick,male,0.86671,male,female,male,male
+4,Sergio Veloza Castillo,male,0.85404,male,male,male,male
+5,Shalaleh Tarbiat,female,0.84611,female,female,female,female
+6,Eduardo Borda Garcia,male,0.83305,male,male,male,male
+7,Charles Macnulty,male,0.82177,male,female,male,male
+8,Andrew J. Halverson,male,0.81259,male,female,male,male
+9,Fadi Abouzahr,male,0.80112,male,female,male,male
+10,John Golden,male,0.79825,male,male,male,male
+11,Sofia Lopez-Mimendi,female,0.77932,female,female,female,female
+12,Lou Nishimura,male,0.77616,female,female,female,female
+13,John P Fitzgibbons,male,0.77444,male,male,male,male
+14,Alisa Stern,female,0.76856,female,female,female,female
+15,Rus Southwick,male,0.76722,female,female,male,male
+16,Jessica Ginger,female,0.76082,female,female,female,female
+17,Randy T Aumann,male,0.7579,female,female,male,male
+18,Mario Rodriguez,male,0.73763,male,male,male,male
+19,Heinrich Langkopf,male,0.72783,male,female,male,male
+20,Michael R. Stevenson,male,0.7274,male,female,male,male
+21,Kerry Oliver,female,0.72477,female,female,female,female
+22,Natalie Woolridge,female,0.71186,female,female,female,female
+23,Emily Malone,female,0.70679,female,female,female,female
+24,Melissa A Emmerich,female,0.68977,female,female,female,female
+25,Amanda C Grosse,female,0.68949,female,female,female,female
+26,Ashley S Stoker,female,0.68944,female,female,female,female
+27,Christine M. Russo,female,0.68839,female,female,female,female
+28,David E Tanay,male,0.67581,male,female,male,male
+29,Ying Ford,female,0.67075,female,female,female,female
+30,Rodolfo Gonzalez,male,0.65674,male,male,male,male
+31,Annie M. Morgan,female,0.65325,female,female,female,female
+32,Hans U Hufschmid,male,0.64503,male,male,male,male
+33,Lisa Duffey,female,0.64464,female,female,female,female
+34,Erica V. Boden,female,0.64091,female,female,female,female
+35,Jeff J Jackson,male,0.63513,male,male,male,male
+36,Emily A Meister,female,0.63145,female,female,female,female
+37,Alea Isaacson,female,0.61194,female,female,female,female
+38,Lisa B Groome,female,0.60664,female,female,female,female
+39,Bill L Carr,male,0.60104,male,male,male,male
+40,Kari A. Jortikka,male,0.58732,female,female,female,female
+41,Christine Coutu,female,0.58474,female,female,female,female
+42,Annmarie O'Brien,female,0.56036,female,female,female,female
+43,Sara A Hansen,female,0.54243,female,female,female,female
+44,Alan J. Dumas,male,0.5311,male,male,male,male
+45,Jamie L. Bogosian,female,0.50055,female,female,male,female
+46,Troy S. Kipuw,male,0.46187,male,female,male,male
+47,Laura A. Wagner-Tinker,female,0.45102,female,female,female,female
+48,Joel Phelps,male,0.4329,male,female,male,male
+49,Lauren N. Delisia,female,0.41101,female,female,female,female
+50,Kathleen M. Ciampa,female,0.36812,female,female,female,female

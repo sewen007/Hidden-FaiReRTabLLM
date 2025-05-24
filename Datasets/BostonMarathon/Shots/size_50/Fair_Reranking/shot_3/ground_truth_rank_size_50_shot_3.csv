@@ -1,0 +1,51 @@
+,doc_id,Name,Gender,predictions,GT_score,Gender.1
+0,1,Geoffrey Kirui,male,1.0,1.0,male
+1,154,Jim Johnson,male,0.91108,0.91108,male
+2,749,Hans Sitarz,male,0.86877,0.86877,male
+3,1185,Jimmy Villette,male,0.85442,0.85442,male
+4,1260,Michael Viola,male,0.85213,0.85213,male
+5,2479,Mike Kelley,male,0.82244,0.82244,male
+6,2764,Eric J Glinski,male,0.81599,0.81599,male
+7,3031,Alan Honig,male,0.81078,0.81078,male
+8,3477,Barbara Powers,female,0.80179,0.80179,female
+9,3586,Juniper F. Hunter,male,0.80078,0.80078,male
+10,4015,Jeffrey D. Saunderson,male,0.79323,0.79323,male
+11,4991,Ianik Blanchet,male,0.77822,0.77822,male
+12,5428,Nathaniel Dick,male,0.77215,0.77215,male
+13,5834,Anneke Thompson,female,0.76588,0.76588,female
+14,6223,Kara J Defeo,female,0.76039,0.76039,female
+15,6795,John Riopelle,male,0.7536,0.7536,male
+16,7749,Noreen Inman,female,0.74136,0.74136,female
+17,8280,Brian G. Baxter,male,0.73452,0.73452,male
+18,8440,Ed Thomas,male,0.73146,0.73146,male
+19,9103,Corey R Long,female,0.72391,0.72391,female
+20,9201,Vanessa Fernandez Vidueira,female,0.72343,0.72343,female
+21,9503,Jessica L. Hewitt,female,0.71956,0.71956,female
+22,10303,William Evans,male,0.71062,0.71062,male
+23,10361,Karen R Keefe,female,0.70995,0.70995,female
+24,10900,Trish Wood,female,0.7034,0.7034,female
+25,10950,Mike Meyers,male,0.70182,0.70182,male
+26,11197,Takeshi Kikuchi,male,0.69967,0.69967,male
+27,11230,Melissa Terry,female,0.69953,0.69953,female
+28,11669,Phil Clevenger,male,0.69412,0.69412,male
+29,11698,Susanne M Sviergula,female,0.69255,0.69255,female
+30,12699,Heidi E Laduca,female,0.67892,0.67892,female
+31,12849,Linda L Bayne,female,0.67725,0.67725,female
+32,12951,Susan C. Larsen,female,0.67495,0.67495,female
+33,13434,Denise Hatcher,female,0.66673,0.66673,female
+34,14132,Tracy Breen,female,0.65411,0.65411,female
+35,14089,Alexia Desaulniers,female,0.65344,0.65344,female
+36,15184,Gibson D Trinca,female,0.63413,0.63413,female
+37,15292,Marta Slosarska,female,0.63217,0.63217,female
+38,15277,Tian Wang,male,0.63135,0.63135,male
+39,15672,Margaret A. McGrath,female,0.62318,0.62318,female
+40,16158,Taryn D. Sleger,female,0.61338,0.61338,female
+41,16146,Sarah M. Green,female,0.61299,0.61299,female
+42,16177,David L Huff,male,0.6117,0.6117,male
+43,16727,Armando Sr. Viana,male,0.59808,0.59808,male
+44,17270,Eric P. Pawlowski,male,0.58321,0.58321,male
+45,17362,Alessandra Ferazzini,female,0.58082,0.58082,female
+46,17560,Dean Loizou,male,0.57322,0.57322,male
+47,18237,Laura Shay,female,0.54941,0.54941,female
+48,19198,Jennifer L. Tutak,female,0.50633,0.50633,female
+49,20147,Eric M. Binder,male,0.43759,0.43759,male

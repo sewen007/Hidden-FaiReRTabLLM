@@ -1,0 +1,51 @@
+doc_id,D,name,sex,score_x,score_y
+1,1,Galen Rupp,male,0.999,0.999
+7,7,Laura Coogan,female,0.80289,0.80289
+9,9,Jennifer B Matthews,female,0.79572,0.79572
+10,10,Kazuhito Tajima,female,0.79328,0.79328
+2,2,Alec Nevalainen,male,0.87149,0.87149
+13,13,Liana Farb,female,0.78286,0.78286
+14,14,Amanda L Lavergne,female,0.78075,0.78075
+16,16,Karen Olsen,female,0.77153,0.77153
+17,17,Chris G Farrar,female,0.7666,0.7666
+18,18,Allison Decort,female,0.73667,0.73667
+3,3,Eric Biedermann,male,0.8604,0.8604
+19,19,Ellen Simmons,female,0.73557,0.73557
+20,20,Kim M Marchand,female,0.73333,0.73333
+21,21,Laura C Stephen,female,0.73084,0.73084
+22,22,Adele E Doperalski,female,0.73084,0.73084
+4,4,Julien Sicuro,male,0.84725,0.84725
+24,24,Rachael E. Massingham,female,0.71636,0.71636
+26,26,Francis Bak,female,0.70383,0.70383
+27,27,Rosanna Brydon,female,0.7013,0.7013
+28,28,Amy R Tomaszewski,female,0.6969,0.6969
+5,5,Andrew S Cooney,male,0.83181,0.83181
+30,30,Audra R Naujokas-Knapp,female,0.69379,0.69379
+33,33,Jennifer L. Riggle,female,0.6619,0.6619
+34,34,Kaitlyn R. Notarianni,female,0.66166,0.66166
+6,6,Oliver Brehm,male,0.82794,0.82794
+37,37,Cindy Lewandowski,female,0.64091,0.64091
+38,38,Malissa W Zimmerman,female,0.63824,0.63824
+39,39,Karen K Mccalla,female,0.61677,0.61677
+40,40,Stephanie Gruenloh,female,0.61352,0.61352
+41,41,Brittany D. Hill,female,0.60606,0.60606
+8,8,Sean Laffey,male,0.79968,0.79968
+43,43,Liz B Futrell,female,0.60224,0.60224
+11,11,Mike Kerkman,male,0.79098,0.79098
+46,46,Cheryl Kravik,female,0.56442,0.56442
+47,47,Elizabeth K. Iorio,female,0.54219,0.54219
+48,48,Dale J. Morrison,female,0.53837,0.53837
+49,49,Lindsy Connolly,female,0.48018,0.48018
+50,50,Elizabeth Gatz,female,0.44519,0.44519
+12,12,Jeff Bozarth,male,0.78357,0.78357
+15,15,Vince Campanelli,male,0.77167,0.77167
+23,23,Jon P Moreau,male,0.72362,0.72362
+25,25,Justin Delmer,male,0.71334,0.71334
+29,29,Stephen B. Wechsler,male,0.69384,0.69384
+31,31,Robert M. III Steptoe,male,0.69001,0.69001
+32,32,James B Leichliter,male,0.68122,0.68122
+35,35,Mark E Hill,male,0.6566,0.6566
+36,36,James Paul Zablosky,male,0.64909,0.64909
+42,42,Jiri Straus,male,0.60305,0.60305
+44,44,Stan S Sit,male,0.59531,0.59531
+45,45,David Dorris,male,0.58254,0.58254

@@ -1,0 +1,10 @@
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.6
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.0
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.54
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.92
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.6
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.8
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.62
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.7
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 0.5
+Accuracy of meta-llama/Meta-Llama-3-8B-Instruct with size 50 and number of shots 0 is: 1.0

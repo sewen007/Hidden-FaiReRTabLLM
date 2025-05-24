@@ -1,0 +1,10 @@
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 0.98
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0
+Accuracy of https://api.deepseek.com with size 50 and number of shots 4 is: 1.0

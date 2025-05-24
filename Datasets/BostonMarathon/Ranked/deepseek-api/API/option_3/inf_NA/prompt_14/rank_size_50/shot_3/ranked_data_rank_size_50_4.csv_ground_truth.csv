@@ -1,0 +1,51 @@
+doc_id,Name,Gender,score,BTN,NMSOR,GAPI,https://api.deepseek.com
+1,Michael R. Wardian,male,0.94846,male,female,male,male
+2,Rob Pope,male,0.85901,male,male,male,male
+3,Andrew T Joda,male,0.84644,male,female,male,male
+4,Jake Mogan,male,0.82746,male,female,male,male
+5,Nick Mosey,male,0.80714,male,male,male,male
+6,Kristen Pedersen,female,0.79677,male,female,female,female
+7,Magdalen P O'Shea,female,0.79299,female,female,female,female
+8,Claire Holland,female,0.78362,female,female,female,female
+9,Jeremy D Groves,male,0.78343,male,female,male,male
+10,Drew S. Gallagher,male,0.78018,male,female,male,male
+11,Jennifer Lehnhof,female,0.77138,female,female,female,female
+12,Molli Bahlenhorst,female,0.76827,female,female,female,female
+13,Bart Luijk,male,0.76579,male,male,male,male
+14,Alicia Jenkins,female,0.76416,female,female,female,female
+15,Thomas Dyroff,male,0.75709,male,male,male,male
+16,Scott M. Douglas,male,0.7416,male,female,male,male
+17,Patricia G. Celestino,female,0.72224,female,female,female,female
+18,Henry J. Och,male,0.71889,male,female,male,male
+19,Eileen Merken,female,0.71478,female,female,female,female
+20,Angelica Webb,female,0.7132,female,female,female,female
+21,Brian F. Merrigan,male,0.71234,male,female,male,male
+22,Mary K Hanson,female,0.71024,female,female,female,female
+23,Alyssa R. Work,female,0.70938,female,female,female,female
+24,Matt Hall,male,0.70904,male,female,male,male
+25,Jim A. Dietsche,male,0.70785,male,male,male,male
+26,Cori Cooper,female,0.70316,female,female,female,female
+27,Wolfgang Hochetlinger,male,0.6914,male,female,male,male
+28,Walter T Shellman,male,0.66812,male,male,male,male
+29,Kurt E. Mckenzie,male,0.66549,male,female,male,male
+30,Andi Kneeland,female,0.66195,female,female,male,female
+31,Rachel E Crabill,female,0.65894,female,female,female,female
+32,John C Sigg,male,0.65473,male,male,male,male
+33,Kim Mcbride,female,0.65463,female,female,female,female
+34,Emilio Sanchez Curbelo,male,0.63862,male,male,male,male
+35,Busola Laguda,female,0.62801,female,female,female,female
+36,Caryn W. Kelley,female,0.62672,female,female,female,female
+37,Jana Daniels,female,0.61997,female,female,female,female
+38,Kelly C Taylor,female,0.61792,female,female,female,female
+39,Guido Gerritsen,male,0.61476,male,male,male,male
+40,Stephanie Gruenloh,female,0.61352,female,female,female,female
+41,Andrei Klinke,male,0.59865,male,female,male,male
+42,Karen Chancy,female,0.59162,female,female,female,female
+43,Wendy Tibbetts,female,0.57021,female,female,female,female
+44,Bennet Johnson,male,0.5637,female,female,male,male
+45,Kyle D. Kiepke,male,0.56284,male,female,male,male
+46,Philip S. Pierce,male,0.5486,male,male,male,male
+47,Bettina Boergmann,female,0.53712,female,female,female,female
+48,Amy Delguercio,female,0.50093,female,female,female,female
+49,Mark Porter,male,0.49983,male,male,male,male
+50,Jessica C. Doggett,female,0.39838,female,female,female,female

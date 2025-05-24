@@ -1,0 +1,51 @@
+,doc_id,Name,Gender,predictions,GT_score,Gender.1
+0,73,John Parrott,male,0.92862,0.92862,male
+1,167,Matthew Leonard,male,0.90802,0.90802,male
+2,666,Dion O'Neale,male,0.87226,0.87226,male
+3,742,Dwayne Brown,male,0.86867,0.86867,male
+4,763,Travis Trampe,male,0.86819,0.86819,male
+5,1054,Ryan F Holtz,male,0.85854,0.85854,male
+6,1232,Joe III Fernandez,male,0.85328,0.85328,male
+7,1562,Gregoire Vallee,male,0.84233,0.84233,male
+8,2025,Edgar L Diaz,male,0.83105,0.83105,male
+9,2049,Ashley Lin,female,0.83033,0.83033,female
+10,2263,Samuel Cervantes,male,0.82684,0.82684,male
+11,2282,Andrew R Piper,male,0.82574,0.82574,male
+12,2555,Erick Barquero,male,0.81952,0.81952,male
+13,2636,Andrew Mitchell,male,0.81771,0.81771,male
+14,3023,Peter De Marchi,male,0.81044,0.81044,male
+15,3762,Maeluen Gruman,female,0.79686,0.79686,female
+16,3995,Matthew M Thomas,male,0.79294,0.79294,male
+17,4315,Rhandi L Orme,female,0.78721,0.78721,female
+18,4363,Salvatore Insana,male,0.78659,0.78659,male
+19,4358,Bill Cottrell,male,0.78649,0.78649,male
+20,4631,Samantha Longacre,female,0.78209,0.78209,female
+21,5479,Scott Rolston,male,0.77105,0.77105,male
+22,6591,Huntley Kubitza,female,0.75541,0.75541,female
+23,8122,Jill Poon,female,0.73624,0.73624,female
+24,8108,Nora E Miller,female,0.73567,0.73567,female
+25,9021,Lorelai Cole,female,0.72592,0.72592,female
+26,9676,Shane Buzza,male,0.71798,0.71798,male
+27,9805,Harold W II Smith,male,0.71607,0.71607,male
+28,10035,Stephen D Cadieux,male,0.7133,0.7133,male
+29,10298,Carolyn Brown,female,0.71067,0.71067,female
+30,10392,Mike Colmant,male,0.70851,0.70851,male
+31,11090,Bryanna Krekeler,female,0.70029,0.70029,female
+32,11089,Alexa A. Schafer,female,0.69991,0.69991,female
+33,11302,Lenka Kubkova,female,0.69857,0.69857,female
+34,11797,Erin Rusch,female,0.69216,0.69216,female
+35,11840,Stacey L Kesel,female,0.69059,0.69059,female
+36,11827,Julie Lindgren,female,0.69049,0.69049,female
+37,12610,Dawn M Hammel,female,0.68069,0.68069,female
+38,12899,Theresa A Morgan,female,0.67543,0.67543,female
+39,13314,Gabriel R. Stillman,male,0.66903,0.66903,male
+40,14765,Jennifer Podolak,female,0.64197,0.64197,female
+41,15140,Jessica A. Coppney,female,0.63393,0.63393,female
+42,15773,Scott Regan,male,0.62126,0.62126,male
+43,15911,Melissa M. Tanguay,female,0.61892,0.61892,female
+44,16408,Danielle E. Klingaman,female,0.60687,0.60687,female
+45,16441,Heidi K. Potvin,female,0.6053,0.6053,female
+46,17445,Eileen Bitterly,female,0.57824,0.57824,female
+47,19028,Feng Ding,female,0.51317,0.51317,female
+48,19552,Ty Ragan,male,0.48334,0.48334,male
+49,20908,Janelle Travers,female,0.35082,0.35082,female

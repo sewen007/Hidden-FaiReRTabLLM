@@ -1,0 +1,10 @@
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0
+Accuracy of gemini-1.5-flash with size 50 and number of shots 1 is: 1.0

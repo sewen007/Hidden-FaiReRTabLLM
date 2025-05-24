@@ -1,0 +1,51 @@
+doc_id,Name,Gender,score,BTN,NMSOR,GAPI,https://api.deepseek.com
+1,Suguru Osako,male,0.99756,female,female,male,male
+2,Miguel Angel Sr. Cifuentes Fetiva,male,0.91065,male,male,male,male
+3,Alex Leon,male,0.88387,female,female,male,male
+4,John R West,male,0.85036,male,male,male,male
+5,Moritz C. Braun,male,0.8331,male,female,male,male
+6,Daniel M. Johns,male,0.83062,male,female,male,male
+7,Justin A. Renz,male,0.82885,male,female,male,male
+8,Christine Brown,female,0.81211,female,female,female,female
+9,Ignacio H Granda,male,0.795,male,male,male,male
+10,Patrick Fernald,male,0.78214,male,male,male,male
+11,Steve Szakal,male,0.77827,male,female,male,male
+12,David Hayes,male,0.77798,male,female,male,male
+13,Alexander Egan,male,0.77363,male,male,male,male
+14,Catherine Gifford,female,0.77243,female,female,female,female
+15,Rachel Griebel,female,0.7678,female,female,female,female
+16,Gerald Walton,male,0.76593,male,male,male,male
+17,Thomas G Kielpinski,male,0.76216,male,male,male,male
+18,Andres V Sanchez Hernandez,male,0.75513,male,male,male,male
+19,Hilary A Freund,female,0.75369,female,female,female,female
+20,Jenna D. Chan,female,0.75326,female,female,female,female
+21,Gregory Hardy,male,0.7524,male,female,male,male
+22,Katie Kirchner,female,0.7524,female,female,female,female
+23,James M. Wilson,male,0.74944,male,male,male,male
+24,Sue George,female,0.74012,female,female,female,female
+25,Karen S Rohrbaugh,female,0.73543,female,female,female,female
+26,Paige N Plumeau,female,0.73041,female,female,female,female
+27,Jay Hickle,male,0.72893,male,female,male,male
+28,Nadine C Singh,female,0.72472,female,female,female,female
+29,Christine E. Ohlhausen,female,0.72152,female,female,female,female
+30,Brian F. Merrigan,male,0.71234,male,female,male,male
+31,Lisa A Tucker,female,0.712,female,female,female,female
+32,Rob Kriegshaber,male,0.71177,male,male,male,male
+33,Corinne Cook,female,0.70106,female,female,female,female
+34,Karen Perzyk,female,0.68681,female,female,female,female
+35,Tricia L. Ruby,female,0.67562,female,female,female,female
+36,Roni Kornitz,male,0.67008,female,female,male,female
+37,Josie Riebe,female,0.66759,female,female,female,female
+38,Sylvia Reyes Garcia,female,0.65903,female,female,female,female
+39,Gregg R Gohlke,male,0.6444,male,male,male,male
+40,Peter H. Witlen,male,0.61448,male,male,male,male
+41,Hongqin Tian,female,0.61022,female,female,female,female
+42,Jackie Dudas,female,0.57829,female,female,female,female
+43,Kristin L. Moccia,female,0.56361,female,female,female,female
+44,Rebecca J. Tener,female,0.54965,female,female,female,female
+45,CarolAnn Hynes,female,0.54864,female,female,female,female
+46,Janet Perkins-Howland,female,0.54281,female,female,female,female
+47,Lexie Devries,female,0.5277,female,female,female,female
+48,Jan Wickbom,male,0.47555,male,female,male,female
+49,Gina M. Evans,female,0.47402,female,female,female,female
+50,Robert J. Schurman,male,0.38356,male,female,male,male

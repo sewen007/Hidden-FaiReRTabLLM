@@ -1,0 +1,504 @@
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Female
+Male
+Male
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Male
+Male
+Male
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Female
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Male
+Female
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Male
+Female
+Male
+female
+female
+female
+female
+female
+female
+male
+female
+male
+female
+female
+female
+female
+male
+female
+female
+male
+female
+female
+male
+male
+female
+male
+male
+male
+male
+female
+male
+male
+male
+male
+male
+female
+male
+male
+male
+female
+female
+female
+male
+male
+male
+male
+male
+male
+female
+male
+male
+male
+male
+Female
+Female
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Male
+Here are the inferred sexes for each runner, in the order provided:
+
+1. Female
+2. Female
+3. Female
+4. Male
+5. Female
+6. Female
+7. Female
+8. Female
+9. Female
+10. Female
+11. Female
+12. Female
+13. Female
+14. Male
+15. Female
+16. Female
+17. Male
+18. Male
+19. Female
+20. Male
+21. Male
+22. Male
+23. Female
+24. Male
+25. Female
+26. Female
+27. Male
+28. Male
+29. Male
+30. Male
+31. Female
+32. Female
+33. Male
+34. Male
+35. Female
+36. Male
+37. Male
+38. Female
+39. Male
+40. Male
+41. Male
+42. Male
+43. Male
+44. Female
+45. Male
+46. Female
+47. Female
+48. Male
+49. Male
+50. Male
+Here are the inferred sexes for each runner in the order of the list:
+
+1.  Female
+2.  Female
+3.  Female
+4.  Female
+5.  Male
+6.  Female
+7.  Female
+8.  Female
+9.  Female
+10. Female
+11. Female
+12. Female
+13. Male
+14. Female
+15. Female
+16. Male
+17. Female
+18. Male
+19. Male
+20. Female
+21. Male
+22. Female
+23. Male
+24. Male
+25. Male
+26. Male
+27. Male
+28. Female
+29. Male
+30. Female
+31. Female
+32. Female
+33. Female
+34. Male
+35. Male
+36. Male
+37. Male
+38. Male
+39. Male
+40. Male
+41. Female
+42. Male
+43. Female
+44. Male
+45. Male
+46. Male
+47. Male
+48. Female
+49. Male
+50. Male
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Male
+Female
+Female
+Female
+Female
+Male
+Female
+Male
+Male
+Male
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Female
+Female
+Female
+Male
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Female
+Female
+Male
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Male
+Female
+Male
+Male
+Male
+Female
+Female
+Male
+Male
+Male
+Male
+Male
+Male
+Male
+Female
+Female
+Female
+Male
+Male
+Female
+Male
+Male
+Male
+Male

@@ -1,0 +1,10 @@
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.8
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.72
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.74
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.66
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.72
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.76
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.68
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.68
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.64
+Accuracy of gemini-2.5-pro-exp-03-25 with size 50 and number of shots 0 is: 0.76

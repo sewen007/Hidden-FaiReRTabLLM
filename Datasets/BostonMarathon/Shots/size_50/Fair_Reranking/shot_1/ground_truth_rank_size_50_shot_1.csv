@@ -1,0 +1,51 @@
+,doc_id,Name,Gender,predictions,GT_score,Gender.1
+0,46,Paddy C O'Leary,male,0.93991,0.93991,male
+1,200,Eddie Valentine,male,0.90429,0.90429,male
+2,584,Francois Davidson,male,0.87689,0.87689,male
+3,582,Kuo-Lun Huang,male,0.87685,0.87685,male
+4,701,Scott D Garrison,male,0.87092,0.87092,male
+5,1253,Caleb Kadera,male,0.85208,0.85208,male
+6,1290,Brandon L. Jackson,male,0.85122,0.85122,male
+7,1881,Joseph A D'Alessio,male,0.83463,0.83463,male
+8,2383,Ian R. Morgan,male,0.82421,0.82421,male
+9,2683,Scott Antoun,male,0.81713,0.81713,male
+10,2825,Andrew R. McNamara,male,0.81489,0.81489,male
+11,3151,Christopher P Mazza,male,0.80786,0.80786,male
+12,3192,Catherine Cognetti,female,0.80709,0.80709,female
+13,3295,Michael D. Morris,male,0.80518,0.80518,male
+14,4538,Nancy J. Agrillo,female,0.78353,0.78353,female
+15,4601,Daniel Uhr,male,0.78333,0.78333,male
+16,4827,Vincent M Ortiz,male,0.78037,0.78037,male
+17,4861,Ismael T. Sr. Tecuapacho,male,0.77937,0.77937,male
+18,5883,Luana C. Fleury,female,0.76498,0.76498,female
+19,6458,Brent Yost,male,0.75709,0.75709,male
+20,8741,Tyler J Mcafee,male,0.72807,0.72807,male
+21,9071,Amy Ilfrey,female,0.72525,0.72525,female
+22,9208,Katherine Wax,female,0.72348,0.72348,female
+23,9519,Henry Hamilton-Gould,male,0.7197,0.7197,male
+24,10052,Morgan Feder,female,0.71353,0.71353,female
+25,10512,Bridget F Gagne,female,0.70823,0.70823,female
+26,11194,Jacqueline M Maldonado,female,0.69957,0.69957,female
+27,11153,Jonathan D. Roche,male,0.69919,0.69919,male
+28,12443,Krystle Andrews,female,0.68408,0.68408,female
+29,12400,Michelle M Stoll,female,0.68385,0.68385,female
+30,12740,Heather Every,female,0.67911,0.67911,female
+31,12695,Seth Y Cardall,male,0.67849,0.67849,male
+32,13260,Lynn O'Neal,female,0.67008,0.67008,female
+33,14552,Jill L Dunnett,female,0.6467,0.6467,female
+34,14694,Christine Trotta,female,0.64264,0.64264,female
+35,15203,Robert A. Manzo,male,0.6326,0.6326,male
+36,15840,Amanda Maggs,female,0.62002,0.62002,female
+37,16082,Sue Mantyla,female,0.61548,0.61548,female
+38,16076,Kerrie A. Bailey,female,0.61534,0.61534,female
+39,16549,Jahnathon Larson,male,0.60338,0.60338,male
+40,17014,Joyce H Craig,female,0.59062,0.59062,female
+41,17114,Penny L Williams,female,0.58837,0.58837,female
+42,17576,Laura Cerroni,female,0.5737,0.5737,female
+43,18162,Renee Morris,female,0.55242,0.55242,female
+44,18633,Michie Asami,female,0.53086,0.53086,female
+45,19316,Changfeng Ding,male,0.49725,0.49725,male
+46,20138,Shannon M. Rhinehart,female,0.4406,0.4406,female
+47,20513,Maria Cecilia Barnech,female,0.40646,0.40646,female
+48,20851,Christopher M. Brown,male,0.35985,0.35985,male
+49,20977,Meghan P. Conway,female,0.33389,0.33389,female

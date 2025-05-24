@@ -1,0 +1,10 @@
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.92
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.74
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.86
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.78
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.76
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.8
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.84
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.74
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.88
+Accuracy of gemini-2.0-flash-thinking-exp-01-21 with size 50 and number of shots 1 is: 0.82
