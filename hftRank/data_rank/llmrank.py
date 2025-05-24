@@ -590,30 +590,6 @@ def rank_with_gemini(key="<api_key>", messages=None, model_name="gemini-1.5-flas
 
 
 
-# def rank_with_gemini(key="<api_key>", messages=None, model_name="gemini-1.5-flash",  size=50,
-#     number_of_shots=0,
-#     prompt_id=2):
-#     # get gemini tokenizer
-#     tokenizer = tokenization.get_tokenizer_for_model(model_name)
-#
-#     # count the number of tokens
-#     token_number = tokenizer.count_tokens(str(messages))
-#     print('number of tokens = ', token_number.total_tokens)
-#     model = genai.GenerativeModel(model_name)
-#     try:
-#         # key = os.getenv('GEMINI_API_KEY')
-#         genai.configure(api_key='AIzaSyCf_c4f-JaaP-l60n0nECYd1TmpCLBhdmE')
-#         response = model.generate_content(str(messages))
-#         # key = os.getenv('GEMINI_API_KEY')
-#         # genai.configure(api_key=key)
-#
-#         print('response:', response.text)
-#         return response.text
-#     except google.api_core.exceptions.ResourceExhausted:
-#         print('Resource exhausted. Trying again')
-#         time.sleep(20)
-#         return rank_with_gemini(key, messages, model_name)
-
 
 def extract_and_save_permutation(df, new_item, model_name, prompt_id, number_of_shots=0, size=50):
     # Extract information and store in a list of dictionaries
