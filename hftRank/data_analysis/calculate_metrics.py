@@ -26,7 +26,7 @@ score_column = settings["READ_FILE_SETTINGS"]["SCORE_COL"]
 
 delimiters = "_", "/", "\\", "."
 regex_pattern = '|'.join(map(re.escape, delimiters))
-protected_feature = settings["READ_FILE_SETTINGS"]["PROTECTED_FEATURE"]
+protected_feature = settings["READ_FILE_SETTINGS"]["PROTECTED_FEATURE"].lower()
 dadv_group = settings["READ_FILE_SETTINGS"]["DADV_GROUP"]
 
 feature_dict = {}
@@ -49,7 +49,7 @@ def calculate_metrics_per_shot_llm(shot_path, shot='shot_0', exp_name=experiment
     """
     path = shot_path + '/'
     ranked_folder = os.listdir(path)
-
+    protected_feature = settings["READ_FILE_SETTINGS"]["PROTECTED_FEATURE"].lower()
     # list all ranked_files in the directory (not groundtruth)
     ranked_files = [f for f in ranked_folder if
                     f.endswith('.csv') and 'ranked' in f and 'ground_truth' not in f and str(rank_size) + '_' in f]
@@ -78,37 +78,60 @@ def calculate_metrics_per_shot_llm(shot_path, shot='shot_0', exp_name=experiment
             file_path = path + file
             print(file_path)
             ranked_df = pd.read_csv(file_path)
-            if 'BTN' in file_path or 'GAPI' in file_path or 'NMSOR' in file_path or 'option_3' in file_path:
-                # rename sex to gt_sex
-                ranked_df = ranked_df.rename(columns={'sex': 'inferred_sex'})
-                # print('df before merge', ranked_df)
-                # print('test df', test_df)
-                if 'Name' in ranked_df.columns:
-                    ranked_df = ranked_df.merge(test_df[['Name', protected_feature]], on='Name', how='left')
+            ranked_df.columns = ranked_df.columns.str.lower()
+            test_df.columns = test_df.columns.str.lower()
+            # if 'BTN' in file_path or 'GAPI' in file_path or 'NMSOR' in file_path or 'option_3' in file_path:
+            #     # rename sex to gt_sex
+            #     ranked_df = ranked_df.rename(columns={'sex': 'inferred_sex'})
+            #
+            #
+            #     # Merge on 'name' (case-insensitive handled above)
+            #     ranked_df = ranked_df.merge(test_df[['name', protected_feature.lower()]], on='name', how='left')
+            #
+            #     # Rename protected feature column to 'sex'
+            #     ranked_df = ranked_df.rename(columns={protected_feature.lower(): 'sex'})
+            #
+            #
+            # if 'sex' in ranked_df.columns:
+            #     ranked_df.rename(columns={'sex': protected_feature}, inplace=True)
+            #
+            # # drop duplicates based on names
+            # if 'name' in ranked_df.columns:
+            #     ranked_df = ranked_df.drop_duplicates(subset=['name'])
+            #     if protected_feature not in ranked_df.columns:
+            #         # get corresponding column from test_df using name
+            #         ranked_df = ranked_df.merge(test_df[['name', protected_feature]], on='name', how='left')
+            #         ranked_df = ranked_df.drop_duplicates(subset=['name'])
+            # else:
+            #     ranked_df = ranked_df.drop_duplicates(subset=['Name'])
+            #     if protected_feature not in ranked_df.columns:
+            #         # get corresponding column from test_df using name
+            #         ranked_df = ranked_df.merge(test_df[['Name', protected_feature]], on='Name', how='left')
+            #         ranked_df = ranked_df.drop_duplicates(subset=['Name'])
+            protected_feature = protected_feature.lower()
+            if protected_feature not in test_df.columns:
+                if "gender" in test_df.columns:
+                    protected_feature = "gender"
+                elif "sex" in test_df.columns:
+                    protected_feature = "sex"
                 else:
-                    # rename name to Name
-                    #ranked_df = ranked_df.rename(columns={'name': 'Name'})
-                    ranked_df = ranked_df.merge(test_df[['name', protected_feature]], on='name', how='left')
+                    raise KeyError(
+                        f"No column matching protected feature found in test_df. Available: {list(test_df.columns)}")
+
+            if 'btn' in file_path or 'gapi' in file_path or 'nmsor' in file_path or 'option_3' in file_path:
+                # rename sex to inferred_sex
+                ranked_df = ranked_df.rename(columns={'sex': 'inferred_sex'})
+
+                # Merge with correct protected feature
+                ranked_df = ranked_df.merge(test_df[['name', protected_feature]], on='name', how='left')
+
+                # Normalize to 'sex'
                 ranked_df = ranked_df.rename(columns={protected_feature: 'sex'})
 
+            # Standardize column naming
             if 'sex' in ranked_df.columns:
-                ranked_df.rename(columns={'sex': protected_feature}, inplace=True)
-
-            # drop duplicates based on names
-            if 'name' in ranked_df.columns:
-                ranked_df = ranked_df.drop_duplicates(subset=['name'])
-                if protected_feature not in ranked_df.columns:
-                    # get corresponding column from test_df using name
-                    ranked_df = ranked_df.merge(test_df[['name', protected_feature]], on='name', how='left')
-                    ranked_df = ranked_df.drop_duplicates(subset=['name'])
-            else:
-                ranked_df = ranked_df.drop_duplicates(subset=['Name'])
-                if protected_feature not in ranked_df.columns:
-                    # get corresponding column from test_df using name
-                    ranked_df = ranked_df.merge(test_df[['Name', protected_feature]], on='Name', how='left')
-                    ranked_df = ranked_df.drop_duplicates(subset=['Name'])
-
-
+                ranked_df.rename(columns={'sex': 'gender'}, inplace=True)  # or protected_feature if you want dynamic
+            print('ranked_df', ranked_df)
             if 1 not in ranked_df[protected_feature].unique():
                 print(ranked_df[protected_feature])
                 # if 'ListNet' not in exp_name:

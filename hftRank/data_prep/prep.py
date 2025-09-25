@@ -393,7 +393,7 @@ def create_tests_like_shots(size=50, number=1):
                     json.dump({'random_indices_1': random_indices_1, 'random_indices_0': random_indices_0}, f)
     flatten_directories(f"./Datasets/{experiment_name}/Tests/size_{size}")
 
-    init_dir = f"./Datasets/{experiment_name}/Ranked/Initial/prompt_NA/rank_size_{size}/shot_NA"
+    init_dir = f"./Datasets/{experiment_name}/Ranked/Initial/option_NA/inf_NA/prompt_NA/rank_size_{size}/shot_NA"
     os.makedirs(init_dir, exist_ok=True)
     for file in os.listdir(f"./Datasets/{experiment_name}/Tests/size_{size}"):
         src = os.path.join(f"./Datasets/{experiment_name}/Tests/size_{size}", file)

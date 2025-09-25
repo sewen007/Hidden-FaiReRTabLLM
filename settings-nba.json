@@ -4,17 +4,17 @@
       50
     ],
     "current_rank_size": 50,
-    "shots": [3,4]
+    "shots": [0,1,2,3,4]
   },
   "READ_FILE_SETTINGS": {
-    "PATH": "./Hidden-FaiReR-TabLLM/COMPASSEX.csv",
-    "ITEM": "runner",
+    "PATH": "./Hidden-FaiReR-TabLLM/NBAWNBA.csv",
+    "ITEM": "player",
     "GENDER_EXPERIMENT": "True",
     "RACE_EXPERIMENT": "False",
     "PROTECTED_FEATURE": "Gender",
-    "DADV_GROUP": "male",
-    "ADV_GROUP": "female",
-    "SCORE_COL": "score",
+    "DADV_GROUP": "female",
+    "ADV_GROUP": "male",
+    "SCORE_COL": "CareerPoints",
     "ADDITIONAL_COLUMNS": [
 
     ],

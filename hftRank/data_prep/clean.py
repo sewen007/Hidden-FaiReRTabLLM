@@ -101,3 +101,21 @@ def format_compas():
     # compas_sex = compas_sex.drop(columns='new_id', axis=1)
     compas_sex.to_csv(f'../Hidden-FaiReR-TabLLM/Datasets/{experiment_name}/{experiment_name}_data.csv', index=False)
     return
+
+#################################
+# code to extract races from compas-scores
+def append_race():
+    df = pd.read_csv(f'../Hidden-FaiReR-TabLLM/Datasets/COMPASSEX/Testing/Testing_COMPASSEX.csv')
+    data_with_race = pd.read_csv(f'../Hidden-FaiReR-TabLLM/compas-scores.csv')
+    # create empty column in df
+    df['race'] = ''
+
+    # Create a mapping from Name → Race
+    name_to_race = dict(zip(data_with_race['name'], data_with_race['race']))
+
+    # Fill race column in df, default to "Unknown" if not found
+    df['race'] = df['name'].map(name_to_race).fillna("Unknown")
+
+    # Save the updated DataFrame
+    df.to_csv(f'../Hidden-FaiReR-TabLLM/Datasets/COMPASSEX/Testing/Testing_COMPASSEX.csv', index=False)
+

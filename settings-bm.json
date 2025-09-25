@@ -3,6 +3,7 @@
     "rank_sizes": [
       50
     ],
+    "current_rank_size": 50,
     "shots": [0,1,2,3,4]
   },
   "READ_FILE_SETTINGS": {

@@ -26,8 +26,10 @@ import pandas as pd
 # os.environ['TRANSFORMERS_CACHE'] = '/scratch/shared/models/'
 #GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+# GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY ="AIzaSyCwP2tWCBN5wuurnPKNnCp9V8FPfw7vZFE"
+#DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+DEEPSEEK_API_KEY = "sk-18be54ed718345ecb741f50d33a7fb21"
 start = time.time()
 # torch.cuda.empty_cache()
 # variables for GPT
@@ -44,7 +46,7 @@ item_type = settings["READ_FILE_SETTINGS"]["ITEM"].lower()
 protected_feature = settings["READ_FILE_SETTINGS"]["PROTECTED_FEATURE"]
 protected_group = settings["READ_FILE_SETTINGS"]["DADV_GROUP"].lower()
 non_protected_group = settings["READ_FILE_SETTINGS"]["ADV_GROUP"].lower()
-
+current_size = settings["GENERAL_SETTINGS"]["current_rank_size"]
 test_set = f"./Datasets/{experiment_name}/Testing/Testing_{experiment_name}.csv"
 
 delimiters = "_", "/", "\\", "."
@@ -127,6 +129,33 @@ def RankWithLLM_Gemini_or_Deepseek(model_name, shot_number=1, size=50, prompt_id
             with open(accuracy_file_path, 'a') as f:
                 f.write(
                     f"Accuracy of {model_name} with size {size} and number of shots {shot_number} is: {calc_accuracy(gt_df, inf_name)}\n")
+
+def safe_rank_with_gemini(key, messages, model_name, size, number_of_shots, prompt_id, inf_name, option, max_retries=5):
+    """
+    Wrapper to call rank_with_gemini safely with retry/backoff.
+    """
+    for attempt in range(max_retries):
+        try:
+            return rank_with_gemini(
+                key=key,
+                messages=messages,
+                model_name=model_name,
+                size=size,
+                number_of_shots=number_of_shots,
+                prompt_id=prompt_id,
+                inf_name=inf_name,
+                option=option
+            )
+        except google.api_core.exceptions.ResourceExhausted as e:
+            # Suggested delay from API if available, else exponential backoff
+            retry_delay = getattr(e, 'retry_delay', None)
+            wait_time = retry_delay.seconds if retry_delay else (2 ** attempt) + random.uniform(0, 3)
+            print(f"[429 Rate Limit] Waiting {wait_time:.1f}s before retry (attempt {attempt+1}/{max_retries})...")
+            time.sleep(wait_time)
+        except Exception as e:
+            print(f"[ERROR] Unexpected exception: {e}")
+            raise
+    raise RuntimeError("Max retries exceeded for Gemini API call")
 
 def calc_accuracy(gt_df,inf_name=None):
         gt_column = gt_df[protected_feature]
@@ -264,7 +293,7 @@ def RankWithLLM_Llama(model_name, size=50, post_process=False, option='1', inf_a
                     if (
                             inferred_sexes
                             and set(inferred_sexes) != {"unknown"}
-                            and len(inferred_sexes) == 50
+                            and len(inferred_sexes) == current_size
                     ):
                         pass  # valid gender list received
                     print('length of inferred sexes', len(inferred_sexes))
@@ -417,7 +446,7 @@ def rank_with_gemini_pre(model_name, file, number_of_shots=0, size=20, prompt_id
             if (
                     inferred_sexes
                     and set(inferred_sexes) != {"unknown"}
-                    and len(inferred_sexes) == 50
+                    and len(inferred_sexes) == current_size
             ):
                 pass # valid gender list received
         else:
@@ -548,7 +577,7 @@ def rank_with_gemini(key="<api_key>", messages=None, model_name="gemini-1.5-flas
 
         elif 'deepseek' in model_name:
             key = DEEPSEEK_API_KEY
-            print('key = ', key)
+            # print('key = ', key)
             client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
             response = client.chat.completions.create(
                 model="deepseek-chat",
@@ -744,11 +773,11 @@ def check_output_format(text, option='1'):
     matches = re.findall(r'\[(\d+)\]', text)
     numbers = list(map(int, matches))
 
-    has_all = set(numbers) == set(range(1, 51))
-    correct_length = len(numbers) == 50
+    has_all = set(numbers) == set(range(1, current_size+1))
+    correct_length = len(numbers) == current_size
 
     if has_all and correct_length:
-        return True, 50
+        return True, current_size
     else:
         return False, len(numbers)
 
@@ -827,8 +856,7 @@ def prepare_fair_rerank_template(shott, size=50, prompt_id=2, option='1', inf_ap
 
 
 
-            fair_ranked_sample = pd.read_csv(
-                f"./Datasets/{experiment_name}/Shots/size_{size}/Fair_Reranking/shot_{i}/ranked_data_rank_size_{size}_shot_{i}.csv")
+            fair_ranked_sample = pd.read_csv(f"./Datasets/{experiment_name}/Shots/size_{size}/Fair_Reranking/shot_{i}/ranked_data_rank_size_{size}_shot_{i}.csv")
 
             # create a mapping of items to their original indices in shot_example
             items_to_index = shot_sample['doc_id'].reset_index().set_index('doc_id')['index']

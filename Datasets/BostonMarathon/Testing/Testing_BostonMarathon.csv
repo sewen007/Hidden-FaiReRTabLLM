@@ -1,4 +1,4 @@
-doc_id,name,Gender,score,BTN,NMSOR,GAPI
+doc_id,Name,Gender,score,BTN,NMSOR,GAPI
 1,Galen Rupp,male,0.999,male,female,male
 2,Suguru Osako,male,0.99756,female,female,male
 3,Rachid Kisri,male,0.97442,male,male,male
